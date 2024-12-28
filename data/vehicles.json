@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Royel Enfield",
+        "type": "Bike",
+        "price": "5000",
+        "image": "https:\/\/cdn.bikedekho.com\/processedimages\/royal-enfield\/classic350\/source\/classic35066d56d955aab0.jpg"
+    },
+    {
+        "name": "Kia Cars",
+        "type": "Car",
+        "price": "25000",
+        "image": "https:\/\/images.hindustantimes.com\/auto\/auto-images\/kia\/sportage\/exterior_kia-sportage_front-left-side_600x400.jpg"
+    }
+]
